@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43828788867",
+    "project_id": "fluttertodo-caa00",
+    "storage_bucket": "fluttertodo-caa00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43828788867:android:00cc678ef0cbc7104765b6",
+        "android_client_info": {
+          "package_name": "com.example.remiderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEOssI5PQ-0YsIcivrh5fsf5OXLpskPkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
